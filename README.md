@@ -4,6 +4,10 @@ A modern, high-performance personal portfolio website built with HTML5, CSS3, an
 
 ## 🚀 Features
 
+- **Mini_CRM**: Backend system for User/Task management (NestJS, RBAC). [Link](https://github.com/ABHINAVJINDAL26/Mini_CRM)
+- **NexTrade**: AI-driven 3D E-commerce Marketplace (MERN). [Link](https://github.com/ABHINAVJINDAL26/Next-Trade-Ecommerce)
+- **Resume Parser AI**: Intelligent PDF/DOCX data extraction. [Link](https://github.com/ABHINAVJINDAL26/Resume-Parser_ai)
+- **ReachInbox Email Scheduler**: TypeScript/Redis-based job scheduling. [Link](https://github.com/ABHINAVJINDAL26/Auto-Email-Scheduling-System)
 - **Responsive Design**: Fully optimized for Mobile, Tablet, and Desktop.
 - **Modern Layouts**: Built using CSS Flexbox and Grid.
 - **Dark/Light Mode**: User-selectable theme with persistence.
